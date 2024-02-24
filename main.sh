@@ -52,8 +52,8 @@ gsettings set org.gnome.settings-daemon.plugins.power sleep-inactive-ac-type 'no
 
 profile="org.gnome.Terminal.Legacy.Profile:/org/gnome/terminal/legacy/profiles:/:b1dcc9dd-5262-4d8d-a863-c897e6d979b9/"
 gsettings set "$profile" "background-color" 'rgb(0,0,0)'
-gsettings set "$profile" "default-size-columns" 200
-gsettings set "$profile" "default-size-rows" 200
+gsettings set "$profile" "default-size-columns" 220
+gsettings set "$profile" "default-size-rows" 220
 gsettings set "$profile" "font" 'Monospace 16'
 gsettings set "$profile" "foreground-color" 'rgb(0,255,0)'
 gsettings set "$profile" "use-system-font" false
