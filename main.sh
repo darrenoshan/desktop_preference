@@ -34,7 +34,7 @@ gsettings set org.gnome.nautilus.preferences show-delete-permanently true
 gsettings set org.gtk.gtk4.Settings.FileChooser sort-directories-first true
 gsettings set org.gtk.Settings.FileChooser sort-directories-first true
 
-gsettings set org.gnome.shell favorite-apps "['org.gnome.Terminal.desktop', 'google-chrome.desktop', 'org.gnome.Nautilus.desktop', 'winbox.desktop', 'code.desktop', 'org.remmina.Remmina.desktop', 'xed.desktop', 'virtualbox.desktop', 'org.gnome.TextEditor.desktop', 'gnome-system-monitor.desktop', 'firefox.desktop', 'dbeaver-ce.desktop', 'org.gnome.Calendar.desktop', 'org.gnome.Calculator.desktop', 'org.gnome.Settings.desktop', 'libreoffice-calc.desktop', 'libreoffice-writer.desktop', 'libreoffice-impress.desktop', 'org.gnome.Software.desktop']"
+gsettings set org.gnome.shell favorite-apps "['org.gnome.Terminal.desktop', 'google-chrome.desktop', 'org.gnome.Nautilus.desktop', 'winbox.desktop', 'code.desktop', 'org.remmina.Remmina.desktop', 'xed.desktop', 'virtualbox.desktop', 'org.gnome.TextEditor.desktop', 'gnome-system-monitor.desktop', 'firefox.desktop', 'dbeaver-ce.desktop', 'org.gnome.Calendar.desktop', 'org.gnome.Calculator.desktop', 'org.gnome.Settings.desktop', 'org.gnome.Software.desktop']"
 
 gsettings set org.gnome.desktop.input-sources sources "[('xkb', 'us'), ('xkb', 'ir')]"
 gsettings set org.gnome.desktop.input-sources per-window true
